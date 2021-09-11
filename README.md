@@ -11,7 +11,7 @@ I'm a Undergraduage Student, a Learner, Backend & Frontend Developer.
 
 You can find me from :
 
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+<a src="https://www.facebook.com/miyuru.rox.9/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 
 
 I'm interested in below languages & frameworks.
