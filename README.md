@@ -9,4 +9,6 @@ I'm a Undergraduage Student, a Learner, Backend & Frontend Developer.
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I love to play PC Games.
 
-https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen
+![image]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen})
+
+
