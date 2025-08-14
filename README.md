@@ -1,13 +1,8 @@
 ### Hi there, I am Miyuru. 👋
 
-I'm a Undergraduage Student, a Learner, Backend & Frontend Developer.
-
-- 🔭 I’m currently working on LOLC Technologies PVT LTD.
-- 🌱 I’m currently learning React JS, React Native & Java.
-- 👯 I’m looking to collaborate on other developers.
-- 🤔 I’m looking for help with other developers.
-- 😄 Pronouns: He / Him
-- ⚡ Fun fact: I love to play PC Games.
+A Experienced Software Engineer passionate about creating reliable, high-performing applications that solve real-world problems. 
+Work spans the full development lifecycle — from designing and building, to testing and maintaining robust software solutions.
+Thrive in collaborative environments, working closely with cross-functional teams to deliver scalable, efficient systems on time. With a strong focus on problem-solving, I bring proven expertise in debugging, optimizing performance, and ensuring long-term reliability.
 
 You can find me from :
 
