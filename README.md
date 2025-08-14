@@ -4,10 +4,6 @@ A Experienced Software Engineer passionate about creating reliable, high-perform
 Work spans the full development lifecycle — from designing and building, to testing and maintaining robust software solutions.
 Thrive in collaborative environments, working closely with cross-functional teams to deliver scalable, efficient systems on time. With a strong focus on problem-solving, I bring proven expertise in debugging, optimizing performance, and ensuring long-term reliability.
 
-You can find me from :
-
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-
 I'm interested in below languages & frameworks.
 
 ### Languages & Frmeworks : 
