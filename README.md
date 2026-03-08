@@ -4,7 +4,7 @@ A Experienced Software Engineer passionate about creating reliable, high-perform
 Work spans the full development lifecycle — from designing and building, to testing and maintaining robust software solutions.
 Thrive in collaborative environments, working closely with cross-functional teams to deliver scalable, efficient systems on time. With a strong focus on problem-solving, I bring proven expertise in debugging, optimizing performance, and ensuring long-term reliability.
 
-I'm interested in below languages & frameworks.
+Technologies and frameworks I have experience with:
 
 ### Backend : 
 
