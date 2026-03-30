@@ -8,7 +8,7 @@ Thrive in collaborative environments, working closely with cross-functional team
 
 [![Visit My Portfolio](https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-ff5733?style=for-the-badge)](https://miyuruwijesinghe.github.io/miyuru-portfolio/)
 
-Technologies and frameworks I have experience with:
+## 💻 Technologies and frameworks I have experience with:
 
 ### Backend : 
 
