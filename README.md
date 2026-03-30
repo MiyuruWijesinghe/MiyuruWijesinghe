@@ -6,7 +6,7 @@ Thrive in collaborative environments, working closely with cross-functional team
 
 ## 🌐 Check out my projects, experiments, and work in one place.
 [![Visit My Portfolio](https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-ff5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://miyuruwijesinghe.github.io/miyuru-portfolio/)
-[![Visit My Portfolio](https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-ff5733?style=for-the-badge&logo=vercel&logoColor=white)](https://miyuruwijesinghe.github.io/miyuru-portfolio/)
+[![Visit My Portfolio](https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-ff5733?style=for-the-badge)](https://miyuruwijesinghe.github.io/miyuru-portfolio/)
 
 Technologies and frameworks I have experience with:
 
