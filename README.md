@@ -7,7 +7,7 @@ Thrive in collaborative environments, working closely with cross-functional team
 </p>  
 <br>
 
-### 👀 Profile Stats
+<h2> 👀 Profile Stats </h2>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=MiyuruWijesinghe&label=Profile%20Views&color=1f6feb&style=for-the-badge" />
@@ -15,7 +15,7 @@ Thrive in collaborative environments, working closely with cross-functional team
 </p>
 <br>
 
-## 🌐 Check out my projects, experiments, and work in one place.
+<h2> 🌐 Check out my projects, experiments, and work in one place. </h2>
 
 [![Visit My Portfolio](https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-ff5733?style=for-the-badge)](https://miyuruwijesinghe.github.io/miyuru-portfolio/)
 <br>
