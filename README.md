@@ -1,4 +1,4 @@
-### Hi there, I am Miyuru. 👋
+<h2> Hi there, I am Miyuru. 👋 </h2>
 
 A Experienced Software Engineer passionate about creating reliable, high-performing applications that solve real-world problems. 
 Work spans the full development lifecycle — from designing and building, to testing and maintaining robust software solutions.
