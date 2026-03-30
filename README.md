@@ -20,11 +20,11 @@ Thrive in collaborative environments, working closely with cross-functional team
 [![Visit My Portfolio](https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-ff5733?style=for-the-badge)](https://miyuruwijesinghe.github.io/miyuru-portfolio/)
 <br>
 
-<h2 align="left">🌐 Explore My Work</h2>
+<h2> 🌐 Check out my projects, experiments, and work in one place. </h2>
 
-<p align="center">
+<p align="left">
   <a href="https://miyuruwijesinghe.github.io/miyuru-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-ff5733?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-ff5733?style=for-the-badge" />
   </a>
 </p>
 
