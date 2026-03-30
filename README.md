@@ -28,7 +28,7 @@ Thrive in collaborative environments, working closely with cross-functional team
 
 <hr>
 
-## 💻 Technologies and frameworks I have experience with:
+<h2> 💻 Technologies and frameworks I have experience with: </h2><br>
 
 ### Backend : 
 
