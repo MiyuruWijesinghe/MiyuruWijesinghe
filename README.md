@@ -17,18 +17,12 @@ Thrive in collaborative environments, working closely with cross-functional team
 
 <h2> 🌐 Check out my projects, experiments, and work in one place. </h2>
 
-[![Visit My Portfolio](https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-ff5733?style=for-the-badge)](https://miyuruwijesinghe.github.io/miyuru-portfolio/)
-<br>
-
-<h2> 🌐 Check out my projects, experiments, and work in one place. </h2>
-
 <p align="left">
   <a href="https://miyuruwijesinghe.github.io/miyuru-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-ff5733?style=for-the-badge" />
   </a>
 </p>
-
-<hr>
+<br>
 
 <h2> 💻 Technologies and frameworks I have experience with: </h2><br>
 
